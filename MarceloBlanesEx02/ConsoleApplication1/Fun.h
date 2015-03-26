@@ -1,0 +1,1 @@
+int CalcMid(int n);
